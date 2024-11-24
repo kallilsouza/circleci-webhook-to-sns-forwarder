@@ -1,1 +1,1 @@
-# circleci-webhook-receiver
+# circleci-notification-receiver
